@@ -7,4 +7,7 @@ public class Demo5 {
 		System.out.println("Day 5 AWS ....");
 	}
 
+	public void add() {
+		System.out.println(2+2);
+	}
 }
